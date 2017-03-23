@@ -139,7 +139,7 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
-    enumerize (0.8.0)
+    enumerize (1.1.1)
       activesupport (>= 3.2)
     equalizer (0.0.9)
     erubis (2.7.0)
@@ -454,7 +454,7 @@ DEPENDENCIES
   easy_table
   eco
   em-websocket (~> 0.5.1)
-  enumerize
+  enumerize (~> 1.1.1)
   eventmachine (~> 1.0.4)
   factory_girl_rails
   faker (~> 1.4.3)
@@ -513,4 +513,4 @@ DEPENDENCIES
   whenever (~> 0.9.2)
 
 BUNDLED WITH
-   1.14.2
+   1.14.6
